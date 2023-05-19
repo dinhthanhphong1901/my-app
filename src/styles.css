@@ -1,0 +1,377 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+.container{
+    max-width: 100%;
+    margin:0 ;
+}
+nav{
+    text-align: center;
+    line-height: 40px;
+    background-color: red;
+    background-image: url(../src/assets/screenshot_1645097445.png);
+    background-size: auto 60px;
+    background-repeat: no-repeat;
+    background-position: 50px ;
+    border-bottom: 3px solid goldenrod ;
+}
+nav a{
+    font-family:Calibri;
+    margin-right: 7%;
+    text-decoration: none;
+    font-weight: 900;
+    color: yellow;
+}
+nav a:hover{
+    color: rgb(201, 230, 36);
+    text-shadow: 0 0 8px 8px orange;
+}
+article{
+    width: 100%;
+    height: 2500px;
+    background-color:white;
+} 
+article>div div{
+    height: 30px;
+    width: 100%;
+}
+
+footer{
+    height: 370px;;
+    text-align: justify;
+    border-top: 3px solid olive;
+    background-color: rgb(250, 211, 211);
+}
+footer>div>p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+footer>div>h4{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+footer>.chan{
+    width: 22%;
+    height: 340px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+footer p{
+    color: purple;
+}
+.phanchan{
+    float: left;
+    width: 40%;
+    padding: 5%;
+}
+.phanbenkia{
+    float: right;
+    width: 40%;
+    padding: 5%;;
+}
+.poster{
+    width: 97%;
+    height: 340px;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.poster>.anh1{
+    width: 67%;
+    height: 340px;
+    float: right;
+    margin: 0px;
+}
+.poster>.anh2{
+    width: 30%;
+    height: 340px;
+    float: left;
+}
+body{
+    padding:0px;
+    margin:0px;
+}
+.container{
+    max-width: 100%;
+    margin:0 ;
+}
+nav{
+    text-align: center;
+    line-height: 40px;
+    background-color: red;
+    background-image: url(../src/assets/screenshot_1645097445.png);
+    background-size: auto 60px;
+    background-repeat: no-repeat;
+    background-position: 50px ;
+    border-bottom: 3px solid goldenrod ;
+ 
+}
+nav a{
+    font-family:Calibri;
+    margin-right: 7%;
+    text-decoration: none;
+    font-weight: 900;
+    color: yellow;
+}
+nav a:hover{
+    color: rgb(201, 230, 36);
+    text-shadow: 0 0 8px 8px orange;
+}
+footer{
+    height: 370px;;
+    text-align: justify;
+    border-top: 3px solid olive;
+    background-color: rgb(250, 211, 211);
+}
+footer>div>p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+footer>div>h4{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+footer>.chan{
+    width: 22%;
+    height: 340px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+footer p{
+    color: purple;
+}
+.phanchan{
+    float: left;
+    width: 40%;
+    padding: 5%;
+}
+.phanbenkia{
+    float: right;
+    width: 40%;
+    padding: 5%;;
+}
+.poster{
+    width: 97%;
+    height: 340px;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.poster>.anh1{
+    width: 67%;
+    height: 340px;
+    float: right;
+    margin: 0px;
+}
+.poster>.anh2{
+    width: 30%;
+    height: 340px;
+    float: left;
+}
+main{
+    width:90%;
+    height: 600px;
+    margin-top: 10px;
+    margin-left: 100px;
+    box-shadow: 0px 0px 2px 1px rgb(180, 180, 176) ;
+    margin-bottom: 20px;
+} 
+main>.anh{
+    float: left;
+    width: 37%;
+    height: 500px;
+    background-color: white;
+    padding: 50px;
+}
+main>.thongtin{
+    float: right;
+    width: 53%;
+    height: 600px;
+    background-color: rgb(247, 245, 242);
+}
+h2{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+h5{
+    margin-left: 20px;
+    color: rgb(74, 179, 144);
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+h5{
+    font-size: 15px;
+}
+.muasam{
+    margin-top: 50px;
+    float: left;
+    margin-left: 220px;
+    width: 100px;
+    height: 40px;
+    background-color: green;
+    border-radius: 3px;
+    color: azure;
+}
+.muasam:hover{
+    background-color: black;
+    color: yellow;
+}
+.giohang{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    border-radius: 3px;
+    color: azure;
+}
+.giohang:hover{
+    background-color: black;
+    color: yellow;
+}
+.soluongtru{
+    margin-left: 20px;
+    margin-right: 0px;
+    width: 33px;
+    height: 33px;
+
+}
+.soluong{
+    width: 30px;
+    height: 27px;
+}
+.soluongcong{
+    width: 33px;
+    height: 33px;
+}
+strong{
+    margin-left: 20px;
+}
+.menu{ 
+    line-height: 40px;
+    background-color: red ;
+    height: 40px;
+}
+.menu>a{
+    margin-top: 10px;
+    margin-right: 5%;
+    font-weight: bolder;
+    color: rgb(248, 241, 248);
+    padding: 8px;
+    font-weight: 20px;
+    margin-left: 50px;
+}
+.menu>a:hover{
+    color: greenyellow;
+}
+.column{
+    width: 19%;
+    height: 100%;
+    float: left;
+    margin-bottom: 3%;
+}
+ .san-pham {
+    width: 230px;
+    height: auto;
+    box-shadow: 0px 0px 5px rgb(24, 18, 18);
+    text-align: center;
+    margin-left: 10px;
+    border: 1px solid wheat;
+    padding-bottom: 10px;
+ }
+.san-pham .ten{
+    text-align: left;
+    font-size:100%;
+    color: black;
+    padding-left: 14px;
+    width: 85%;
+}
+.san-pham img{
+    border: 1px solid red;
+    margin-top: 10px;
+    max-width: 80%;
+    width: 180px;
+    height: 160px;
+}
+.san-pham .gia{  
+    color: red;
+    font-weight:bold;
+    font-size:larger;
+    padding-top: 20px;
+}
+.san-pham .gia del{
+    color:gray;
+}
+a{
+    text-decoration: none;
+}
+div>.mua{   
+    color: red;
+    border: 2px solid red;
+    width: 50px;
+    line-height: 30px;
+    border-radius: 4px;
+    margin-left: 90px;
+}
+.san-pham:hover{
+    box-shadow: 0px 0px 5px 2px rgb(53, 47, 47);
+ }
+.ochuaSP{
+    width: 100%;
+    height: auto;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+input{
+    width: 20%;
+    height: 30px;
+    border-radius: 4px;
+    background-image: url(../src/assets/fin.png);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    margin-right: 100px;
+    border: 3px solid orange;
+}
+.mucluc{
+    border-top: 4px solid tomato;
+    width: 100%;
+    border-bottom: 4px solid tomato;
+    height: 480px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.danhmuc{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border: 1.5px solid rgb(252, 109, 65);
+    border-radius: 5px;
+    margin-left: 60px;
+    margin-top: 30px;
+    float: left;
+    padding: 10px;
+}
+.danhmuc:hover{
+    box-shadow: 0px 0px 16px 1px rgb(58, 52, 52);
+    border: 1.5px solid white;
+}
+legend{
+    color: brown;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.chu{
+    font-weight: bolder;
+    color: black;
+}
+
+
